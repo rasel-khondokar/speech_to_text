@@ -2,6 +2,7 @@
 
 ## On ubuntu
 . install.sh
+
 ## On Windows
 pip install pipwin
 pipwin install pyaudio
